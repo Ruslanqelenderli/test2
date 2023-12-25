@@ -5,8 +5,8 @@ while(true)
 {
 	try
 	{
-        Console.WriteLine("bir eded daxil et:");
-		int number = int.Parse(Console.ReadLine());
+        //Console.WriteLine("bir eded daxil et:");
+		//int number = int.Parse(Console.ReadLine());
 		//int number = int.Parse(Console.ReadLine());
 		//long number = Convert.ToInt64(Console.ReadLine());
 
